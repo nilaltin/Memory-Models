@@ -1,0 +1,23 @@
+Loaded df shape: (6133, 14)
+   subj  item  resp  isCorrect    RT  ...  levDist rep  alpha  fixedRT   estRT
+0  1501     3  fish       True  2295  ...        0   1    0.3      0.3     inf
+1  1501     3  fish       True   888  ...        0   2    0.3      0.3  1.7856
+2  1501    12  book       True  3128  ...        0   1    0.3      0.3     inf
+3  1501    12  book       True   841  ...        0   2    0.3      0.3  1.9031
+4  1501     2  beer       True  4203  ...        0   1    0.3      0.3     inf
+
+[5 rows x 14 columns]
+CSV: /Users/nilaltinordu/Desktop/MEMMODELS/slim stampen/slimstampen_all_trials.csv
+Available subjects: [1501, 1502, 1503, 1504, 1505, 1509, 1512, 1517, 1518, 1521] ...
+Enter subject ID to fit: 
+=== WEIGHTED ONE-SUBJECT FIT ===
+Subject: 1501
+Trials: 151
+
+=== FIT RESULT ===
+Converged: True
+Message: CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH
+NLL: 201.85006096376563
+Params [d, w1, tau, s, T0, F, sigma_rt]:
+[0.15216014 5.01995152 0.1579119  0.55714148 0.         5.25118269
+ 0.52572432]

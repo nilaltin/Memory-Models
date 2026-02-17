@@ -1,0 +1,18 @@
+Enter subject ID (e.g., 1501): 
+=== PAVLIK ONE-SUBJECT FIT (c = 0.5 fixed) ===
+Subject: 1501
+Trials: 151
+
+=== FIT RESULT ===
+Converged: True
+NLL: 61.02120239505414
+Params [phi, tau, s, T0, F, sigma_rt]:
+[ 0.4383355  -5.18080847  2.4422252   1.22248245  0.1744108   2.        ]
+
+Predictions head:
+   item  trial    time         A  p_correct   rt_pred  isCorrect  rt_obs
+0     3      2   5.426 -0.364159   0.877851  1.473512          1   0.888
+1    12      4  12.776 -0.406546   0.875978  1.484382          1   0.841
+2     2      7  26.327 -0.883425   0.853162  1.644412          1   0.968
+3     9      8  29.194 -0.737702   0.860480  1.587197          1   1.182
+4    22     11  42.459 -0.937238   0.850380  1.667739          1   1.383

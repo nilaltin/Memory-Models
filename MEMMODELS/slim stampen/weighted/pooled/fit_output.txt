@@ -1,0 +1,49 @@
+Working directory: /Users/nilaltinordu/Desktop/MEMMODELS
+Files here: ['.DS_Store', 'IntroToModelFitting.ipynb', 'fit_output.txt', 'slimstampen_all_trials.csv', 'spacing_better.ipynb', 'modelmemorypractice1.py', 'IMG_4969.HEIC']
+Loaded df shape: (6133, 14)
+   subj  item  resp  isCorrect    RT  ...  levDist rep  alpha  fixedRT   estRT
+0  1501     3  fish       True  2295  ...        0   1    0.3      0.3     inf
+1  1501     3  fish       True   888  ...        0   2    0.3      0.3  1.7856
+2  1501    12  book       True  3128  ...        0   1    0.3      0.3     inf
+3  1501    12  book       True   841  ...        0   2    0.3      0.3  1.9031
+4  1501     2  beer       True  4203  ...        0   1    0.3      0.3     inf
+
+[5 rows x 14 columns]
+
+=== FIT RESULT ===
+Converged: True
+Message: CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH
+NLL: 8063.444545435015
+Params [d, w1, tau, s, T0, F, sigma_rt]:
+[ 0.45678903  1.28982174 -1.94678818  0.59113045  1.39865195  0.13516199
+  0.56614263]
+
+Predictions head:
+   subj  item  trial    time         A  p_correct   rt_pred  isCorrect  rt_obs
+0  1501     3      2   5.426 -0.124966   0.956141  1.551805          1   0.888
+1  1501    12      4  12.776 -0.169135   0.952899  1.558722          1   0.841
+2  1501     2      7  26.327 -0.666064   0.897207  1.661753          1   0.968
+3  1501     9      8  29.194 -0.514214   0.918598  1.624687          1   1.182
+4  1501    22     11  42.459 -0.722140   0.888122  1.676928          1   1.383
+
+RT obs (sec) summary (correct only):
+count    4309.000000
+mean        2.117435
+std         1.976663
+min         0.102000
+25%         1.169000
+50%         1.525000
+75%         2.272000
+max        29.453000
+Name: rt_obs, dtype: float64
+
+RT pred (sec) summary:
+count    5125.000000
+mean        1.751676
+std         0.184043
+min         1.458328
+25%         1.636173
+50%         1.719691
+75%         1.805228
+max         3.549214
+Name: rt_pred, dtype: float64

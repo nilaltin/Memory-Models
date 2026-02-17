@@ -1,0 +1,58 @@
+CSV: /Users/nilaltinordu/Desktop/MEMMODELS/slim stampen/slimstampen_all_trials.csv
+N subjects: 45
+Subjects (first 10): [1501, 1502, 1503, 1504, 1505, 1509, 1512, 1517, 1518, 1521] ...
+[1/45] subj=1501 conv=True NLL=61.021 phi=0.4383 sigma_rt=2.000
+[2/45] subj=1502 conv=True NLL=67.523 phi=0.3005 sigma_rt=2.000
+[3/45] subj=1503 conv=True NLL=48.636 phi=0.2091 sigma_rt=2.000
+[4/45] subj=1504 conv=True NLL=67.413 phi=0.0100 sigma_rt=2.000
+[5/45] subj=1505 conv=True NLL=5.991 phi=0.3305 sigma_rt=2.000
+[6/45] subj=1509 conv=True NLL=48.801 phi=0.1388 sigma_rt=2.000
+[7/45] subj=1512 conv=True NLL=75.936 phi=0.0126 sigma_rt=2.000
+[8/45] subj=1517 conv=True NLL=39.293 phi=0.4525 sigma_rt=2.000
+[9/45] subj=1518 conv=True NLL=20.603 phi=0.4327 sigma_rt=2.000
+[10/45] subj=1521 conv=True NLL=75.659 phi=0.1031 sigma_rt=2.000
+[11/45] subj=1529 conv=True NLL=54.692 phi=0.0410 sigma_rt=2.000
+[12/45] subj=1530 conv=True NLL=56.175 phi=0.3589 sigma_rt=2.000
+[13/45] subj=1532 conv=True NLL=59.644 phi=0.2384 sigma_rt=2.000
+[14/45] subj=1535 conv=True NLL=17.827 phi=0.0100 sigma_rt=2.000
+[15/45] subj=1536 conv=True NLL=78.131 phi=0.7923 sigma_rt=2.000
+[16/45] subj=1538 conv=True NLL=57.245 phi=0.0330 sigma_rt=2.000
+[17/45] subj=1540 conv=True NLL=32.624 phi=0.4074 sigma_rt=2.000
+[18/45] subj=1542 conv=True NLL=55.747 phi=0.3442 sigma_rt=2.000
+[19/45] subj=1548 conv=True NLL=44.008 phi=0.0243 sigma_rt=2.000
+[20/45] subj=1552 conv=True NLL=38.234 phi=0.9007 sigma_rt=2.000
+[21/45] subj=1557 conv=True NLL=56.917 phi=0.0818 sigma_rt=2.000
+[22/45] subj=28000 conv=True NLL=49.814 phi=0.8994 sigma_rt=2.000
+[23/45] subj=28234 conv=True NLL=52.187 phi=0.1326 sigma_rt=2.000
+[24/45] subj=28308 conv=True NLL=33.764 phi=0.2507 sigma_rt=2.000
+[25/45] subj=28309 conv=True NLL=51.916 phi=0.0100 sigma_rt=2.000
+[26/45] subj=28999 conv=True NLL=0.008 phi=1.4367 sigma_rt=2.000
+[27/45] subj=29212 conv=True NLL=58.127 phi=0.0575 sigma_rt=2.000
+[28/45] subj=29220 conv=True NLL=44.849 phi=0.1558 sigma_rt=2.000
+[29/45] subj=29221 conv=True NLL=57.945 phi=0.3312 sigma_rt=2.000
+[30/45] subj=29227 conv=True NLL=23.378 phi=0.9709 sigma_rt=2.000
+[31/45] subj=29230 conv=True NLL=43.937 phi=0.3188 sigma_rt=2.000
+[32/45] subj=29233 conv=True NLL=3.151 phi=0.3313 sigma_rt=2.000
+[33/45] subj=29239 conv=True NLL=46.463 phi=0.2479 sigma_rt=2.000
+[34/45] subj=29240 conv=True NLL=29.007 phi=0.3052 sigma_rt=2.000
+[35/45] subj=29245 conv=True NLL=27.283 phi=0.1949 sigma_rt=2.000
+[36/45] subj=29280 conv=True NLL=28.102 phi=0.9286 sigma_rt=2.000
+[37/45] subj=29281 conv=True NLL=30.937 phi=0.0317 sigma_rt=2.000
+[38/45] subj=29303 conv=True NLL=63.216 phi=0.3154 sigma_rt=2.000
+[39/45] subj=29305 conv=True NLL=32.348 phi=0.1156 sigma_rt=2.000
+[40/45] subj=29306 conv=True NLL=19.128 phi=0.4063 sigma_rt=2.000
+[41/45] subj=29307 conv=True NLL=12.181 phi=0.3375 sigma_rt=2.000
+[42/45] subj=29310 conv=True NLL=49.120 phi=0.0438 sigma_rt=2.000
+[43/45] subj=29318 conv=True NLL=46.906 phi=0.4057 sigma_rt=2.000
+[44/45] subj=29326 conv=True NLL=60.511 phi=0.0210 sigma_rt=2.000
+[45/45] subj=29328 conv=True NLL=23.482 phi=0.9043 sigma_rt=2.000
+
+Saved: /Users/nilaltinordu/Desktop/MEMMODELS/slim stampen/Pavlik/per_subject/pavlik_per_subject_fits.csv
+   subj  n_trials  converged        NLL  ...         s        T0         F  sigma_rt
+0  1501       151       True  61.021202  ...  2.442225  1.222482  0.174411       2.0
+1  1502       184       True  67.523103  ...  0.552013  0.618094  0.242814       2.0
+2  1503       199       True  48.635967  ...  0.252097  0.784895  0.409180       2.0
+3  1504       120       True  67.412779  ...  0.218328  0.899455  1.137608       2.0
+4  1505        91       True   5.990939  ...  0.208591  0.038762  0.708059       2.0
+
+[5 rows x 10 columns]
